@@ -1,0 +1,9 @@
+{
+  "appId": "com.feelright.app",
+  "appName": "FeelRight",
+  "webDir": "www",
+  "backgroundColor": "#15132A",
+  "android": {
+    "allowMixedContent": false
+  }
+}
