@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FeelRight</string>
+    <string name="title_activity_main">FeelRight</string>
+    <string name="package_name">com.feelright.app</string>
+    <string name="custom_url_scheme">com.feelright.app</string>
+</resources>
